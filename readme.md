@@ -1,2 +1,4 @@
-Firebird Chan
-30624700
+Name: Firebird Chan
+
+ID: 30624700
+
